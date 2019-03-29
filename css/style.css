@@ -787,7 +787,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   max-width: 600px;
   height: 80%;
 
-  overflow: hidden;
+  overflow: auto;
   z-index: 11000 !important;
   line-height: 1.2em;
   opacity: 0;

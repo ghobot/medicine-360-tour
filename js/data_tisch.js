@@ -330,32 +330,32 @@ var APP_DATA = {
             {
                "imageURL" : "img/hotspot_images/label_1.jpg",
                "alt" : "placeholder image",
-               "text" : "This describes this image."
+               "text" : ""
             },
             {
                "imageURL" : "img/hotspot_images/label_2.jpg",
                "alt" : "placeholder image",
-               "text" : "This describes this image."
+               "text" : ""
             },
             {
                "imageURL" : "img/hotspot_images/label_3.jpg",
                "alt" : "placeholder image",
-               "text" : "This describes this image."
+               "text" : ""
             },
             {
                "imageURL" : "img/hotspot_images/label_4.jpg",
                "alt" : "placeholder image",
-               "text" : "This describes this image."
+               "text" : ""
             },
             {
                "imageURL" : "img/hotspot_images/label_5.jpg",
                "alt" : "placeholder image",
-               "text" : "This describes this image."
+               "text" : ""
             },
             {
                "imageURL" : "img/hotspot_images/label_6.jpg",
                "alt" : "placeholder image",
-               "text" : "This describes this image."
+               "text" : ""
             }
           ],
           "actionLink":"https://nyulangone.org" // to image carousel in new window
