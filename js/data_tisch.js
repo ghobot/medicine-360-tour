@@ -636,7 +636,7 @@ var APP_DATA = {
     "fullscreenButton": false,
     "viewControlButtons": false,
     "introVideo" : {
-      "enable": false,
+      "enable": true,
       "url": 'video/elevator.mp4'
     },
     "pretest": {
@@ -644,8 +644,8 @@ var APP_DATA = {
       "url":"https://nyumc.qualtrics.com/"
     },
     "posttest": {
-      "enable": false,
-      "url":"https://nyumc.qualtrics.com/"
+      "enable": true,
+      "url":"https://forms.gle/FAxbHxR7zsadTg5P7"
     }
   }
 };

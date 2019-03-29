@@ -975,8 +975,8 @@ var APP_DATA = {
       "url":""
     },
     "posttest": {
-      "enable": false,
-      "url":""
+      "enable": true,
+      "url":"https://forms.gle/FAxbHxR7zsadTg5P7"
     }
   }
 };
