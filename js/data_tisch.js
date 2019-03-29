@@ -636,7 +636,7 @@ var APP_DATA = {
     "fullscreenButton": false,
     "viewControlButtons": false,
     "introVideo" : {
-      "enable": true,
+      "enable": false,
       "url": 'video/elevator.mp4'
     },
     "pretest": {
