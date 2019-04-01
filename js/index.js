@@ -1147,11 +1147,12 @@
     var icon = '<i class="fas fa-check-circle green"></i>';
     var elements =  document.querySelectorAll(".hotspot.info-hotspot");
     hotspotsTotal = elements.length;
+    var countDone
 
     document.querySelector("#debugBtn button").addEventListener("click" , function() {
       console.log("debug: " + hotspotsTotal + " hotspots visted.");
 
-      elements.forEach(function (hotspot) {
+      elements.forEach(function(hotspot) {
            var newEl = document.createElement("i");
            newEl.classList.add('fas' , 'fa-check-circle', 'visited');
 
