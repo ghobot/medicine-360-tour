@@ -228,11 +228,11 @@ var APP_DATA = {
       "url": 'video/elevator.mp4'
     },
     "pretest": {
-      "enable": true,
+      "enable": false,
       "url":"https://goo.gl/forms/EhKJOFksmGkGeHeu1"
     },
     "posttest": {
-      "enable": true,
+      "enable": false,
       "url":"https://goo.gl/forms/mWmuEZSAi1RvFFFj2"
     }
   }
